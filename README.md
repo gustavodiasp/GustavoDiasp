@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GustavoDiasp
-- 👀 I’m interested in Front-End;
-- 🌱 I’m currently learning JavaScript;
+- 👀 I’m interested in ;
+- 🌱 I’m currently learning ;
 - 💞️ I’m looking to collaborate;
 - 📫 How to reach me: gustavo.diaspereira@gmail.com
 
