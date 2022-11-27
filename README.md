@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Gustavo Dias 👋</h1>
 
-<div align="center">
+<div align="left">
   Code Cadet @ Academia de Código_ <br>
   🌱 I’m currently learning Java <br>
-  📫 How to reach me: <br>
+  📫 How to reach me:<br>
   <a href="https://www.linkedin.com/in/gustavo-dias-pereira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div> 
 
