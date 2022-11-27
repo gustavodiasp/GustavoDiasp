@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @GustavoDiasp
-- 👀 I’m interested in ;
-- 🌱 I’m currently learning ;
-- 💞️ I’m looking to collaborate;
-- 📫 How to reach me: gustavo.diaspereira@gmail.com
+<h1 align="center">Hi, I'm Gustavo Dias 👋</h1>
 
-
-
+<div align="center">
+  Code Cadet @ Academia de Código_ <br>
+  🌱 I’m currently learning **Java** <br>
+  📫 How to reach me: <br>
+  <a href="https://www.linkedin.com/in/gustavo-dias-pereira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div> 
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,7 +22,7 @@
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=GustavoDiasp&color=blue) 
+![](https://komarev.com/ghpvc/?username=GustavoDiasp&color=orange) 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoDiasp&layout=compact&theme=codeSTACKr)](https://github.com/GustavoDiasp)
