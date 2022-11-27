@@ -2,7 +2,7 @@
 
 <div align="center">
   Code Cadet @ Academia de Código_ <br>
-  🌱 I’m currently learning **Java** <br>
+  🌱 I’m currently learning Java <br>
   📫 How to reach me: <br>
   <a href="https://www.linkedin.com/in/gustavo-dias-pereira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div> 
