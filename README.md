@@ -34,10 +34,14 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=gustavodiasp&color=orange) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavodiasp&layout=compact&theme=gotham)](https://github.com/gustavodiasp)
+<br>
 
+<!---
+Profile viewers counter
+![](https://komarev.com/ghpvc/?username=gustavodiasp&color=green) 
+--->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavodiasp&layout=compact&theme=codeSTACKr)](https://github.com/gustavodiasp)
 
 
 <!---
